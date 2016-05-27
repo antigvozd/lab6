@@ -8,7 +8,6 @@
         var $telefon;   ///<Телефон Поставщика
         var $cathegory;
 
-
         function setinfo($fio, $address, $telefon, $cathegory){
 
             $this->fio = $fio;
